@@ -33,5 +33,3 @@ Una vez que hayas completado y probado tus programas en PyCharm, guárdalos.
 Abre GitHub Desktop o utiliza la línea de comandos para sincronizar tus cambios con el repositorio de GitHub que hayas creado o clonado en la clase anterior.
 
 Asegúrate de realizar un "commit" con un mensaje descriptivo de tus cambios y luego un "push" para subir tus programas al repositorio en GitHub.
-
-Entrega de la Tarea:
